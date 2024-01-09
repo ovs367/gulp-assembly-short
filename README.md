@@ -1,6 +1,6 @@
 <h1 align=center>A simple gulp assembly</h1>
 
-This is short version based on global nodejs variables and "require-dir" pugin.
+This is short version of gulp assembly for pug, html, js, css, scss, font and img. It based on global nodejs variables and "require-dir" plugin.
 
 ## Description
 
